@@ -5,3 +5,4 @@ im a linux user , i like all distros!!
 
 my discord: BoB#5740
 ______________________________________
+# i like your mom
