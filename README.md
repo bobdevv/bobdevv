@@ -1,13 +1,11 @@
 <h1 align="center">Hi. I'm Bob</h1>
 <h3 align="center">A dumb dude trying to learn things</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bobdevv" alt="bobdevv" /></a> </p>
-
-- 🔭 I’m currently working on **A game**
+-  I’m currently working on **A game**
 
 - I’m currently learning **C++**
 
-- 👨‍💻 All of my projects are available at [My github](My github)
+- All of my projects are available at [My github](My github)
 
 - How to reach me **k4my4r000@gmail.com**
 
