@@ -5,7 +5,7 @@
 
 - How to reach me **k4my4r000@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
