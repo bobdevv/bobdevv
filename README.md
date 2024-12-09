@@ -1,15 +1,13 @@
 <h1 align="center">Hi. I'm Bob</h1>
 <h3 align="center">A dumb dude trying to learn things</h3>
 
--  I’m currently working on **A game**
+-  I’m currently working on an 8 bit computer
 
 - I’m currently learning **C++**
 
-- All of my projects are available at [My github](My github)
-
 - How to reach me **k4my4r000@gmail.com**
 
-- My discord is **BoB#6798**
+- My discord is blbob
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
